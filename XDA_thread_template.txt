@@ -1,0 +1,178 @@
+[img]https://github.com/Project-PixelStar/manifest/raw/14-qpr3/Banner.png[/img]​​​
+
+
+
+
+[code]
+
+#include <std_disclaimer.h>
+
+
+/*
+
+* Your warranty is now void.
+
+*
+
+* We are not responsible for bricked devices, dead SD cards,
+
+* thermonuclear war, or you getting fired because the alarm app failed. Please
+
+* do some research if you have any concerns about features included in this ROM
+
+* before flashing it! YOU are choosing to make these modifications, and if
+
+* you point the finger at us for messing up your device, we will laugh at you.
+
+*
+
+*/
+
+[/code]
+
+
+Welcome to PixelStar!
+
+
+Pixelstar is another cherry-picked AOSP rom with most of the pixel goodies and some of useful customisation
+
+We currently support Android 14 , with the latest security patches from Google
+
+==========================================================================================
+
+Disclaimer:
+
+Pixelstar (Project Pixelstar Android Distribution) members or anyone else on this website is not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in the products you find here before flashing it! YOU are choosing to make these modifications, and if you point the finger at us for messing up your device, we will laugh at you. Your warranty will be void if you tamper with any part of your device/software.
+
+
+Features:
+
+==========================================================================================
+
+This List also apply to Upside Down Cake
+
+
+Everything is working:
+
+
+[HIDE][CODE][LIST]
+
+
+
+- Add Face Unlock with ParanoidSense
+
+- Add Cloudflare DNS as a private DNS provider
+
+- Add a preference to battery optimization page
+
+- Add AdGuard DNS as a private DNS Provider
+
+- Add charging control preferences
+
+- Add more DNS providers
+
+- Add a toggle to force LTE_CA
+
+- Add Lockscreen Charging
+
+- Add option to use HEVC
+
+- Add package name to installed app details
+
+- Add Incall vibration options
+
+- Add support for window ignore secure
+
+- Add double tap to sleep gesture
+
+- Add cutout force full screen
+
+- Add Ambient instead of fully waking
+
+- Add toggle for 60Hz refresh rate on battery saver
+
+- Add peak refresh rate list preference
+
+- Add Glide library
+
+- Add minimize & pip buttons to freeform windows
+
+- Add a config to state whether a device supports increased touch sensi…
+
+- Add rounded corners to activity open/close animation
+
+- Add missing INTERACT_ACROSS_USERS_FULL permission
+
+- Add missing icon for media output
+
+- Circle To Search Works
+
+- Add Incall vibration options
+
+- Add Wifi standard icon feature
+
+- Redesign seekbar
+
+- Bring in the new icon
+
+
+
+[/LIST][/CODE][/HIDE]
+
+
+
+Known issues:
+
+* NONE
+
+
+Instructions:
+
+    Download the latest build
+    Boot to recovery
+    Format Data install clena or wipe cache and dalvik for update
+    Flash the latest build
+    Reboot
+
+
+Downloads:
+
+[URL unfurl="true"]https://sourceforge.net/projects/pixelstar/files/[/URL]
+
+
+Source code:
+
+Kernel Here
+
+
+ROM's Source:
+https://github.com/Project-PixelStar
+
+Contributors
+Founder/Ex-Lead: Mudit
+Lead/Manager: Amrito
+Core Team: Vimal, Dropto, Ritesh , Kamlesh
+Designers: Naoshokoto.id , Kshitij , Nex , Tanbir
+Web Developer: Pratham (REX)
+
+ROM OS Version: Android 14
+Version Information : 3.5
+Security Patch : November 2024
+Status: Stable
+
+​[img]https://github.com/Project-PixelStar/.github/raw/main/Credit.png[/img]​​​​
+
+    Credits:
+ - Android Open Source Project
+ - LineageOS
+ - ParanoidAndroid
+ - crDroid
+ - ArrowOS
+ - PixelExperience
+ - YAAP
+ - PixysOS
+ - Havoc-OS
+ - ColtOS
+ - TheParasiteProject
+ - ThePixelProject
+ - And tons of other ROMs not mentioned above
