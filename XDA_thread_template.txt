@@ -130,7 +130,7 @@ Instructions:
 
     Download the latest build
     Boot to recovery
-    Format Data install clena or wipe cache and dalvik for update
+    Format Data install clean or wipe cache and dalvik for update
     Flash the latest build
     Reboot
 
